@@ -347,7 +347,7 @@ This is a bug fix only release to address the following four issues.
     * To see the full improvement, you must update both the Robot Controller and Driver Station apps.
 * Updates samples located at [/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples](FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples).
     * Added ConceptGamepadRumble and ConceptGamepadTouchpad samples to illustrate the use of these new gampad capabilities.
-    * Condensed existing Vuforia samples into just 2 samples (ConceptVuforiaFieldNavigation & ConceptVuforiaFieldNavigationWebcam) showing how to determine the robot's location on the field using Vuforia. These both use the current season's Target images.
+    * Condensed existing Vuforia samples into just 2 samples (ConceptVuforiaFieldNavigation & ConceptVuforiaFieldNavigationWebcam) showing how to determinhiiiiiiiiiiiie the robot's location on the field using Vuforia. These both use the current season's Target images.
     * Added ConceptVuforiaDriveToTargetWebcam to illustrate an easy way to drive directly to any visible Vuforia target.
 * Makes many improvements to the warning system and individual warnings.
     * Warnings are now much more spaced out, so that they are easier to read.
